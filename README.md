@@ -25,8 +25,10 @@ The Results from deliverable one show are very powerful story about the profit g
 
 In Deliverable 2, it shows that Urban fares bring in the largest percent of money at every point on the graph. Urban fares have the most consistent upward trend among the three city types, while the Suburban market, has the largest spikes. It would be interesting to see what happened causing the jumps in late february.
 
+Deliverable 2 is also important, in that it shows that Pyber is growing, giving us good quarterly improvement. Suburban and Urban Fares($USD), have gone up and we are seeing an upward trend in total growth overall.
+
 ## Summary
 <!--Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.-->
 Looking at the two deliverables, I would share a few different recommendations. The first recommendation is too look into the spikes near, the end of February, all three city types spiked, at that time, See if there was an event correlated to that, and if you can use incentives or marketing to make, the next event similar bring a larger spike. Second, I would share with driver's the locations that are currently bringing the largest fare, so that you have a better distribution of driver's in the places where rides are available. This will allow for more growth in Rural\Suburban City locations, and give Drivers more opportunities for higher fare rides.
 
-The Rural city location is probably the most interesting in the Data, in that it has a week where it made no money, but each ride it does have has a large profit for the driver and Pyber. I would look to see if there are ways to find drivers for the rides that were missed, or tailor ways for Rural users of Pyber to connect with a driver.
+The Rural city location is probably the most interesting in the Data, in that it has a week where it made no money, but each ride it does have has a large profit for the driver and Pyber. I would look to see if there are ways to find drivers for the rides that were missed, or tailor ways for Rural users of Pyber to connect with a driver. This should also help the growth in that sector, as it is the only one where we aren't seeing the same upward trend.
